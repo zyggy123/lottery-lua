@@ -1,4 +1,6 @@
-![Logo](https://raw.githubusercontent.com/zyggy123/zyggy123/images/fCerzRiMQrWXKAtuuLXnFA.webp?token=GHSAT0AAAAAACUYAUV32X37MYDS4KMYP64QZUQOBXQ)
+
+
+<img src="https://raw.githubusercontent.com/zyggy123/zyggy123/images/fCerzRiMQrWXKAtuuLXnFA.webp?token=GHSAT0AAAAAACUYAUV32X37MYDS4KMYP64QZUQOBXQ" alt="Logo" width="200"/>
 # Lottery System
 
 ## Name: Lottery System
