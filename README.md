@@ -1,14 +1,14 @@
 # Lottery System
 
 ## Name: Lottery System
-## Author: [Your GitHub Username]
+## Author: zyggy123
 ## Repository: https://github.com/[Your GitHub Username]/lottery-system
 ## Download: https://github.com/[Your GitHub Username]/lottery-system/archive/refs/heads/main.zip
 ## License: GNU Affero General Public License v3.0
 
 ## Description
 
-This Lua script implements a customizable lottery system for AzerothCore. Players can enter the lottery using Emblems of Frost, with a chance to win valuable prizes. The system features automated draws, a flexible claim system for winners, and an intuitive NPC interface for player interaction.
+This Lua script implements a customizable lottery system for AzerothCore and TrinityCore. Players can enter the lottery using Emblems of Frost, with a chance to win valuable prizes. The system features automated draws, a flexible claim system for winners, and an intuitive NPC interface for player interaction.
 
 ### Features:
 
