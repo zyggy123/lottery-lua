@@ -2,8 +2,6 @@
 
 ## Name: Lottery System
 ## Author: zyggy123
-## Repository: https://github.com/[Your GitHub Username]/lottery-system
-## Download: https://github.com/[Your GitHub Username]/lottery-system/archive/refs/heads/main.zip
 ## License: GNU Affero General Public License v3.0
 
 ## Description
