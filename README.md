@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/zyggy123/zyggy123/images/fCerzRiMQrWXKAtuuLXnFA.webp?token=GHSAT0AAAAAACUYAUV32X37MYDS4KMYP64QZUQOBXQ)
 # Lottery System
 
 ## Name: Lottery System
