@@ -74,3 +74,7 @@ VALUES (500000, 19646, 'Lottery Master', 'Loteria Embleme', 80, 80, 35, 1, 1, 0,
 -In the game, use the command .reload eluna to reload the Lua scripts.
 
 -To spawn the new NPC, use the command .npc add 500000.
+
+Video
+
+[![Video Demo](https://i9.ytimg.com/vi/7Di4y70icnE/mqdefault.jpg?sqp=CMCJwrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDMgXyhlMA8=&rs=AOn4CLAvSKCjAn1CEP6AO0OvNnPrELPOdg)](https://www.youtube.com/watch?v=7Di4y70icnE)
