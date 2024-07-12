@@ -1,4 +1,4 @@
-<center><img src="https://github.com/zyggy123/zyggy123/blob/images/fCerzRiMQrWXKAtuuLXnFA.png" alt="Logo" width="500"/></center>
+<center><img src="https://github.com/zyggy123/lottery-lua/blob/main/image.png" alt="Logo" width="500"/></center>
 
 ## Name: Lottery System
 ## Author: zyggy123
@@ -77,4 +77,4 @@ VALUES (500000, 19646, 'Lottery Master', 'Loteria Embleme', 80, 80, 35, 1, 1, 0,
 
 Video
 
-[![Video Demo](https://i9.ytimg.com/vi/7Di4y70icnE/mqdefault.jpg?sqp=CLC4wrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDIgXihlMA8=&rs=AOn4CLDEY2QVt4Mp1H9FzDuLxbKcy9KjEg)](https://www.youtube.com/watch?v=7Di4y70icnE)
+[![Video Demo](https://i9.ytimg.com/vi_webp/7Di4y70icnE/mq2.webp?sqp=CMCWxrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDIgXihlMA8=&rs=AOn4CLDJ8YE4-JUF5ECusLqUQ79NjZXUUA)](https://www.youtube.com/watch?v=7Di4y70icnE)
