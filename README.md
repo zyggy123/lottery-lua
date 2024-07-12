@@ -1,4 +1,4 @@
-<center<<img src="https://github.com/zyggy123/zyggy123/blob/images/fCerzRiMQrWXKAtuuLXnFA.png" alt="Logo" width="500"/></center>
+<center><img src="https://github.com/zyggy123/zyggy123/blob/images/fCerzRiMQrWXKAtuuLXnFA.png" alt="Logo" width="500"/></center>
 # Lottery System
 
 ## Name: Lottery System
