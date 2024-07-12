@@ -77,4 +77,4 @@ VALUES (500000, 19646, 'Lottery Master', 'Loteria Embleme', 80, 80, 35, 1, 1, 0,
 
 Video
 
-[![Video Demo](https://i9.ytimg.com/vi/gWrXG_T-Omk/mqdefault.jpg?sqp=CLC4wrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGGUgVyhKMA8=&rs=AOn4CLBddr8u-CbAnPo-y4gs-nXg7JXgwg)](https://www.youtube.com/watch?v=gWrXG_T-Omk)
+[![Video Demo](https://i9.ytimg.com/vi/7Di4y70icnE/mqdefault.jpg?sqp=CLC4wrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDIgXihlMA8=&rs=AOn4CLDEY2QVt4Mp1H9FzDuLxbKcy9KjEg)](https://www.youtube.com/watch?v=7Di4y70icnE)
