@@ -75,6 +75,6 @@ VALUES (500000, 19646, 'Lottery Master', 'Loteria Embleme', 80, 80, 35, 1, 1, 0,
 
 -To spawn the new NPC, use the command .npc add 500000.
 
-Video
+<h1 align="center">Video</h1>
 
-[![Video Demo](https://i9.ytimg.com/vi_webp/7Di4y70icnE/mq2.webp?sqp=CMCWxrQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDIgXihlMA8=&rs=AOn4CLDJ8YE4-JUF5ECusLqUQ79NjZXUUA)](https://www.youtube.com/watch?v=7Di4y70icnE)
+<p align="center"> [![Video Demo](https://github.com/zyggy123/Treasure-Chest-System/blob/main/Youtube.png)](https://www.youtube.com/watch?v=7Di4y70icnE) </p>
