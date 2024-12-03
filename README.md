@@ -1,4 +1,4 @@
-<center><img src="https://github.com/zyggy123/lottery-lua/blob/main/image.png" alt="Logo" width="500"/></center>
+<p align="center"><img src="https://github.com/zyggy123/lottery-lua/blob/main/icon.png" alt="Logo" width="250"/></p>
 
 ## Name: Lottery System
 ## Author: zyggy123
