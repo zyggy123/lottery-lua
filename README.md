@@ -77,4 +77,4 @@ VALUES (500000, 19646, 'Lottery Master', 'Loteria Embleme', 80, 80, 35, 1, 1, 0,
 
 <h1 align="center">Video</h1>
 
-<p align="center"> [![Video Demo](https://github.com/zyggy123/Treasure-Chest-System/blob/main/Youtube.png)](https://www.youtube.com/watch?v=7Di4y70icnE) </p>
+[![Video Demo](https://github.com/zyggy123/Treasure-Chest-System/blob/main/Youtube.png)](https://www.youtube.com/watch?v=7Di4y70icnE)
