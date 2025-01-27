@@ -28,7 +28,7 @@ This Lua script implements a customizable lottery system for AzerothCore and Tri
    - `PRIZE_ITEM_ID`: Item ID of the prize to be awarded
    - `NPC_ID`: ID of the NPC that will handle the lottery
 
-3. Restart your server or reload Lua scripts.
+3. Restart your server .
 
 ## Usage
 
@@ -63,13 +63,8 @@ local REGISTRATION_TIME_SECONDS = 604800 -- 7 days
 local CLAIM_TIMEOUT_SECONDS = 86400 -- 24 hours
  ```
 #### If you don't have the NPC in SQL
-Modify the SQL insert command as follows:
- ```sql
-INSERT INTO creature_template (entry, modelid1, name, subname, minlevel, maxlevel, faction, npcflag, scale, rank, dmgschool, baseattacktime, rangeattacktime, unit_class, unit_flags, type, type_flags, lootid, pickpocketloot, skinloot, resistance1, resistance2, resistance3, resistance4, resistance5, resistance6, spell1, spell2, spell3, spell4, spell5, spell6, spell7, spell8, PetSpellDataId, VehicleId, mingold, maxgold, AIName, MovementType, InhabitType, HoverHeight, HealthModifier, ManaModifier, ArmorModifier, RacialLeader, movementId, RegenHealth, mechanic_immune_mask, flags_extra, ScriptName)
-VALUES (500000, 19646, 'Lottery Master', 'Loteria Embleme', 80, 80, 35, 1, 1, 0, 0, 2000, 2000, 1, 33536, 7, 138936390, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', 0, 3, 1, 1, 1, 1, 0, 0, 1, 0, 0, '');
- ```
 
--Run the new SQL insert command.
+-Run the lottery_install.sql SQL insert command.
 
 -In the game, use the command .reload eluna to reload the Lua scripts.
 
