@@ -52,6 +52,6 @@ INSERT INTO `creature_text` (`CreatureID`, `GroupID`, `ID`, `Text`, `Type`, `Lan
 -- INSTALLATION INSTRUCTIONS:
 -- 1. Run this SQL script
 -- 2. Place lottery.lua in your lua_scripts folder
--- 3. Reload with: .reload creature_template
+-- 3. Restart your server
 -- 4. Spawn NPC with: .npc add 500000
 -- --------------------------------------------------------------------------------------
